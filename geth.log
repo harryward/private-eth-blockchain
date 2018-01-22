@@ -1,0 +1,163 @@
+WARN [01-22|14:21:03] No etherbase set and no accounts found as default 
+INFO [01-22|14:21:03] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata cache=16 handles=16
+INFO [01-22|14:21:03] Successfully wrote genesis state         database=chaindata                                             hash=6c2f6d…abf9be
+INFO [01-22|14:21:03] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/lightchaindata cache=16 handles=16
+INFO [01-22|14:21:03] Successfully wrote genesis state         database=lightchaindata                                             hash=6c2f6d…abf9be
+flag provided but not defined: -console
+WARN [01-22|14:23:12] No etherbase set and no accounts found as default 
+INFO [01-22|14:23:12] Starting peer-to-peer node               instance=Geth/v1.7.3-stable/darwin-amd64/go1.9.2
+INFO [01-22|14:23:12] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata cache=128 handles=1024
+WARN [01-22|14:23:12] Upgrading database to use lookup entries 
+INFO [01-22|14:23:12] Database deduplication successful        deduped=0
+INFO [01-22|14:23:12] Initialised chain configuration          config="{ChainID: 15 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [01-22|14:23:12] Disk storage enabled for ethash caches   dir=/Users/harryward/dApps/dAppOne/dataDir/geth/ethash count=3
+INFO [01-22|14:23:12] Disk storage enabled for ethash DAGs     dir=/Users/harryward/.ethash                           count=2
+INFO [01-22|14:23:12] Initialising Ethereum protocol           versions="[63 62]" network=15
+INFO [01-22|14:23:12] Loaded most recent local header          number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:23:12] Loaded most recent local full block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:23:12] Loaded most recent local fast block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:23:12] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [01-22|14:23:12] Starting P2P networking 
+INFO [01-22|14:23:14] UDP listener up                          self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:23:14] RLPx listener up                         self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:23:14] IPC endpoint opened: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:23:34] Got interrupt, shutting down... 
+INFO [01-22|14:23:34] IPC endpoint closed: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:23:34] Blockchain manager stopped 
+INFO [01-22|14:23:34] Stopping Ethereum protocol 
+INFO [01-22|14:23:34] Ethereum protocol stopped 
+INFO [01-22|14:23:34] Transaction pool stopped 
+INFO [01-22|14:23:34] Database closed                          database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata
+WARN [01-22|14:23:51] No etherbase set and no accounts found as default 
+INFO [01-22|14:23:51] Starting peer-to-peer node               instance=Geth/v1.7.3-stable/darwin-amd64/go1.9.2
+INFO [01-22|14:23:51] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata cache=128 handles=1024
+INFO [01-22|14:23:51] Initialised chain configuration          config="{ChainID: 15 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [01-22|14:23:51] Disk storage enabled for ethash caches   dir=/Users/harryward/dApps/dAppOne/dataDir/geth/ethash count=3
+INFO [01-22|14:23:51] Disk storage enabled for ethash DAGs     dir=/Users/harryward/.ethash                           count=2
+INFO [01-22|14:23:51] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [01-22|14:23:51] Loaded most recent local header          number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:23:51] Loaded most recent local full block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:23:51] Loaded most recent local fast block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:23:51] Loaded local transaction journal         transactions=0 dropped=0
+INFO [01-22|14:23:51] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [01-22|14:23:51] Starting P2P networking 
+INFO [01-22|14:23:53] UDP listener up                          self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:23:53] RLPx listener up                         self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:23:53] IPC endpoint opened: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:23:53] IPC endpoint closed: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:23:53] Blockchain manager stopped 
+INFO [01-22|14:23:53] Stopping Ethereum protocol 
+INFO [01-22|14:23:53] Ethereum protocol stopped 
+INFO [01-22|14:23:53] Transaction pool stopped 
+INFO [01-22|14:23:53] Database closed                          database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata
+Fatal: Error starting protocol stack: listen tcp 127.0.0.1:8545: bind: address already in use
+WARN [01-22|14:24:10] No etherbase set and no accounts found as default 
+INFO [01-22|14:24:10] Starting peer-to-peer node               instance=Geth/v1.7.3-stable/darwin-amd64/go1.9.2
+INFO [01-22|14:24:10] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata cache=128 handles=1024
+INFO [01-22|14:24:10] Initialised chain configuration          config="{ChainID: 15 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [01-22|14:24:10] Disk storage enabled for ethash caches   dir=/Users/harryward/dApps/dAppOne/dataDir/geth/ethash count=3
+INFO [01-22|14:24:10] Disk storage enabled for ethash DAGs     dir=/Users/harryward/.ethash                           count=2
+INFO [01-22|14:24:10] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [01-22|14:24:10] Loaded most recent local header          number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:10] Loaded most recent local full block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:10] Loaded most recent local fast block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:10] Loaded local transaction journal         transactions=0 dropped=0
+INFO [01-22|14:24:10] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [01-22|14:24:10] Starting P2P networking 
+INFO [01-22|14:24:12] UDP listener up                          self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:24:12] RLPx listener up                         self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:24:12] IPC endpoint opened: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:24:12] IPC endpoint closed: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:24:12] Blockchain manager stopped 
+INFO [01-22|14:24:12] Stopping Ethereum protocol 
+INFO [01-22|14:24:12] Ethereum protocol stopped 
+INFO [01-22|14:24:12] Transaction pool stopped 
+INFO [01-22|14:24:12] Database closed                          database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata
+Fatal: Error starting protocol stack: listen tcp 127.0.0.1:8545: bind: address already in use
+WARN [01-22|14:24:17] No etherbase set and no accounts found as default 
+INFO [01-22|14:24:17] Starting peer-to-peer node               instance=Geth/v1.7.3-stable/darwin-amd64/go1.9.2
+INFO [01-22|14:24:17] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata cache=128 handles=1024
+INFO [01-22|14:24:17] Initialised chain configuration          config="{ChainID: 15 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [01-22|14:24:17] Disk storage enabled for ethash caches   dir=/Users/harryward/dApps/dAppOne/dataDir/geth/ethash count=3
+INFO [01-22|14:24:17] Disk storage enabled for ethash DAGs     dir=/Users/harryward/.ethash                           count=2
+INFO [01-22|14:24:17] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [01-22|14:24:17] Loaded most recent local header          number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:17] Loaded most recent local full block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:17] Loaded most recent local fast block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:17] Loaded local transaction journal         transactions=0 dropped=0
+INFO [01-22|14:24:17] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [01-22|14:24:17] Starting P2P networking 
+INFO [01-22|14:24:19] UDP listener up                          self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:24:19] RLPx listener up                         self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:24:19] IPC endpoint opened: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:24:19] IPC endpoint closed: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:24:19] Blockchain manager stopped 
+INFO [01-22|14:24:19] Stopping Ethereum protocol 
+INFO [01-22|14:24:19] Ethereum protocol stopped 
+INFO [01-22|14:24:19] Transaction pool stopped 
+INFO [01-22|14:24:19] Database closed                          database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata
+Fatal: Error starting protocol stack: listen tcp 127.0.0.1:8545: bind: address already in use
+WARN [01-22|14:24:38] No etherbase set and no accounts found as default 
+INFO [01-22|14:24:38] Starting peer-to-peer node               instance=Geth/v1.7.3-stable/darwin-amd64/go1.9.2
+INFO [01-22|14:24:38] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata cache=128 handles=1024
+INFO [01-22|14:24:38] Initialised chain configuration          config="{ChainID: 15 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [01-22|14:24:38] Disk storage enabled for ethash caches   dir=/Users/harryward/dApps/dAppOne/dataDir/geth/ethash count=3
+INFO [01-22|14:24:38] Disk storage enabled for ethash DAGs     dir=/Users/harryward/.ethash                           count=2
+INFO [01-22|14:24:38] Initialising Ethereum protocol           versions="[63 62]" network=1
+INFO [01-22|14:24:38] Loaded most recent local header          number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:38] Loaded most recent local full block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:38] Loaded most recent local fast block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:24:38] Loaded local transaction journal         transactions=0 dropped=0
+INFO [01-22|14:24:38] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [01-22|14:24:38] Starting P2P networking 
+INFO [01-22|14:24:40] UDP listener up                          self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:24:40] RLPx listener up                         self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:24:40] IPC endpoint opened: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:24:40] IPC endpoint closed: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:24:40] Blockchain manager stopped 
+INFO [01-22|14:24:40] Stopping Ethereum protocol 
+INFO [01-22|14:24:40] Ethereum protocol stopped 
+INFO [01-22|14:24:40] Transaction pool stopped 
+INFO [01-22|14:24:40] Database closed                          database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata
+Fatal: Error starting protocol stack: listen tcp 127.0.0.1:8545: bind: address already in use
+WARN [01-22|14:29:14] No etherbase set and no accounts found as default 
+INFO [01-22|14:29:14] Starting peer-to-peer node               instance=Geth/v1.7.3-stable/darwin-amd64/go1.9.2
+INFO [01-22|14:29:14] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata cache=128 handles=1024
+INFO [01-22|14:29:14] Initialised chain configuration          config="{ChainID: 15 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [01-22|14:29:14] Disk storage enabled for ethash caches   dir=/Users/harryward/dApps/dAppOne/dataDir/geth/ethash count=3
+INFO [01-22|14:29:14] Disk storage enabled for ethash DAGs     dir=/Users/harryward/.ethash                           count=2
+INFO [01-22|14:29:14] Initialising Ethereum protocol           versions="[63 62]" network=15
+INFO [01-22|14:29:14] Loaded most recent local header          number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:29:14] Loaded most recent local full block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:29:14] Loaded most recent local fast block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:29:14] Loaded local transaction journal         transactions=0 dropped=0
+INFO [01-22|14:29:14] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [01-22|14:29:14] Starting P2P networking 
+INFO [01-22|14:29:16] UDP listener up                          self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:29:16] RLPx listener up                         self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:29:16] IPC endpoint opened: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:29:16] HTTP endpoint opened: http://127.0.0.1:8545 
+INFO [01-22|14:29:35] HTTP endpoint closed: http://127.0.0.1:8545 
+INFO [01-22|14:29:35] IPC endpoint closed: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+flag provided but not defined: -rpccoorsdomain
+flag provided but not defined: -rpccoorsdomain
+-bash: eth: command not found
+flag provided but not defined: -rpccoorsdomain
+flag provided but not defined: -json-rpc-port
+WARN [01-22|14:34:03] No etherbase set and no accounts found as default 
+INFO [01-22|14:34:03] Starting peer-to-peer node               instance=Geth/v1.7.3-stable/darwin-amd64/go1.9.2
+INFO [01-22|14:34:03] Allocated cache and file handles         database=/Users/harryward/dApps/dAppOne/dataDir/geth/chaindata cache=128 handles=1024
+INFO [01-22|14:34:03] Initialised chain configuration          config="{ChainID: 15 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: 0 EIP158: 0 Byzantium: <nil> Engine: unknown}"
+INFO [01-22|14:34:03] Disk storage enabled for ethash caches   dir=/Users/harryward/dApps/dAppOne/dataDir/geth/ethash count=3
+INFO [01-22|14:34:03] Disk storage enabled for ethash DAGs     dir=/Users/harryward/.ethash                           count=2
+INFO [01-22|14:34:03] Initialising Ethereum protocol           versions="[63 62]" network=15
+INFO [01-22|14:34:03] Loaded most recent local header          number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:34:03] Loaded most recent local full block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:34:03] Loaded most recent local fast block      number=0 hash=6c2f6d…abf9be td=200000000
+INFO [01-22|14:34:03] Loaded local transaction journal         transactions=0 dropped=0
+INFO [01-22|14:34:03] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [01-22|14:34:03] Starting P2P networking 
+INFO [01-22|14:34:05] UDP listener up                          self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:34:05] RLPx listener up                         self=enode://33b63e32a9b14b5c7a35b06abbe894351ca670b6ecb12c11bd8a8c666977f6677b65bf1128306525799b55ee44976e739a83ed0ffe78282bced484306120feb2@[::]:30303
+INFO [01-22|14:34:05] IPC endpoint opened: /Users/harryward/dApps/dAppOne/dataDir/geth.ipc 
+INFO [01-22|14:34:05] HTTP endpoint opened: http://127.0.0.1:8545 
